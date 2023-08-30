@@ -16,7 +16,7 @@ Hadoop
 ## My Stats 📊
 
 ## Contact Me ☎️
-[www.linkedin.com/in/andres-abdala-alvarez] 🔗
+[(www.linkedin.com/in/andres-abdala-alvarez)] 🔗
 
 ## Contributions 🌎
 
