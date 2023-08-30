@@ -1,7 +1,7 @@
 ## Andrés Abdala Alvarez  🇦🇷 ⭐⭐⭐
 ### Graduated from UTN as electromechanical engineer.
 ### Currently working as a Data Scientist and studying the first year of a technical degree in programming.
-
+<!--
 #### Technologies
 Python
 SQL
