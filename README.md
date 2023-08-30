@@ -2,9 +2,6 @@
 ### Graduated from UTN as electromechanical engineer.
 ### Currently working as a Data Scientist and studying the first year of a technical degree in programming.
 
-
-## My Stats 📊
-
 ## Languajes & Frameworks
 Python
 SQL
@@ -16,7 +13,10 @@ HTML5
 CSS3
 Hadoop
 
+## My Stats 📊
+
 ## Contact Me ☎️
+[www.linkedin.com/in/andres-abdala-alvarez] 🔗
 
 ## Contributions 🌎
 
