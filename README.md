@@ -3,15 +3,9 @@
 ### Currently working as a Data Scientist and studying the first year of a technical degree in programming.
 
 
-### My Stats 📊
+## My Stats 📊
 
-### Languajes % Frameworks
-
-### Contact Me
-
-### Contributions
-
-#### Technologies 🧰
+## Languajes & Frameworks
 Python
 SQL
 Pyspark
@@ -21,6 +15,11 @@ JavaScript
 HTML5
 CSS3
 Hadoop
+
+## Contact Me ☎️
+
+## Contributions 🌎
+
 
 <!--
 
