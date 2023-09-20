@@ -1,7 +1,9 @@
 # 💫 About Me:
 Graduated from UTN as electromechanical engineer.<br>Currently working as a Data Scientist and studying the first year of a technical degree in programming.
 
-![Snake animation](https://github.com/AndresPampa/AndresPampa/blob/output/github-contribution-grid-snake.svg)
+<div> 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 ## 🌐 Socials:
