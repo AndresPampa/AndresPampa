@@ -1,6 +1,8 @@
 # 💫 About Me:
 Graduated from UTN as electromechanical engineer.<br>Currently working as a Data Scientist and studying the first year of a technical degree in programming.
 
+![Snake animation](https://github.com/AndresPampa/AndresPampa/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrespampa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-abdala-alvarez/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Andrespampa88) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@tiradosycomodos1422) 
