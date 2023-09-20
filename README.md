@@ -3,7 +3,7 @@ Graduated from UTN as electromechanical engineer.<br>Currently working as a Data
 
 <div> 
 </br>
-  ![Snake animation](https://github.com/AndresPampa/AndresPampa/blob/output/github-contribution-grid-snake.svg)
+  [![Snake animation](https://github.com/AndresPampa/AndresPampa/blob/output/github-contribution-grid-snake.svg)]
 </div>
 
 
